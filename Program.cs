@@ -1,18 +1,45 @@
-﻿Para Meu Curriculo Atividade
-
-O que foi utilizado?
-- .NET 
-- c#
-
-Etapas implementadas
-1. Criação do repositório no GitHub.
-2. Criação de uma aplicação console usando .NET
-3. Implementação de funcionalidades para exibir informações do currículo.
-
-Backlog
-- Melhorar a apresentação do currículo.
-- Adicionar mais informações sobre experiências profissionais.
-- Implementar a funcionalidade de exportação para PDF.
-
-Conclusão
-A aplicação permite uma maneira simples de exibir informações do currículo em um formato de console. Futuras melhorias podem incluir exportação e uma interface gráfica.
+﻿using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.Clear();
+		
+		double primeira_nota,
+		       segunda_nota,
+		       terceira_nota,
+		       quarta_nota,
+		       media;
+		
+		Console.WriteLine("Informar a primeira nota: ");
+		primeira_nota = Convert.ToDouble(Console.ReadLine());
+		
+		Console.WriteLine("Informar a segunda nota: ");
+		segunda_nota = Convert.ToDouble(Console.ReadLine());
+		
+		Console.WriteLine("Informar a terceira nota: ");
+		terceira_nota = Convert.ToDouble(Console.ReadLine());
+		
+		Console.WriteLine("Informar a quarta nota: ");
+		quarta_nota = Convert.ToDouble(Console.ReadLine());
+		
+		media = (primeira_nota + segunda_nota + terceira_nota + quarta_nota) / 4.0;
+		Console.WriteLine("A media é: " + media );
+		
+		if (media >=60)
+		{
+			Console.WriteLine("Aprovado");
+		}
+		
+		else if (media >=40)
+		{
+			Console.WriteLine("Recuperação");
+		}
+		
+		else
+		{
+			Console.WriteLine("Reprovado");
+		}
+	}
+}
