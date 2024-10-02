@@ -12,7 +12,7 @@ Etapas implementadas
    
 
 Backlog
-- [x]Adicionar mais informações no Codigo.
+- [x] Adicionar mais informações no Codigo.
 - [x] Implementação de sistemas web
 
 Conclusão
