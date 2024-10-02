@@ -1,7 +1,5 @@
 ﻿
-
-	
-		Random numero = new Random(); // Random cria um gerador de números aletórios
+        Random numero = new Random(); // Random cria um gerador de números aletórios
 		int b; // Declara uma variável
 		//Fase 4: Solicitar o número de dezenas entre 6 e 15
 		do
