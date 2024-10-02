@@ -1,4 +1,5 @@
 ﻿
+
         Random numero = new Random(); // Random cria um gerador de números aletórios
 		int b; // Declara uma variável
 		//Fase 4: Solicitar o número de dezenas entre 6 e 15
@@ -44,3 +45,4 @@
 		Console.WriteLine($"15% para quem acertar 5 dezenas: R$ {premio5Dezenas:F2}"); //Exibe o valor correspondente a 15% do prêmio
 		Console.WriteLine($"10% para quem acertar 4 dezenas: R$ {premio4Dezenas:F2}"); //Exibe o valor correspondente a 10% do prêmio
 	
+
