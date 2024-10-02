@@ -7,7 +7,7 @@ O que foi utilizado?
 
 Etapas implementadas
 1. Criação do repositório no GitHub.
-2. Criação de uma aplicação console usando .NET
+2. Criação de uma aplicação console usando .NET 
 3. Implementação de funcionalidades para exibir informações do currículo.
 
 Backlog
