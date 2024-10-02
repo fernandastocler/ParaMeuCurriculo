@@ -15,5 +15,5 @@ Backlog
 - [x] Adicionar mais informações no Codigo.
 - [x] Implementação de sistemas web
 
-Conclusão
-A aplicação permite uma maneira simples de exibir informações do currículo em um formato de console. Futuras melhorias podem incluir exportação e uma interface gráfica.
+ Conclusão
+- [x] A aplicação permite uma maneira simples de exibir informações do currículo em um formato de console. Futuras melhorias podem incluir exportação e uma interface gráfica.
