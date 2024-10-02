@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\ParaMeuCurriculo.csproj",
+      "projectUniqueName": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\ParaMeuCurriculo\\ParaMeuCurriculo.csproj",
       "projectName": "ParaMeuCurriculo",
-      "projectPath": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\ParaMeuCurriculo.csproj",
+      "projectPath": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\ParaMeuCurriculo\\ParaMeuCurriculo.csproj",
       "packagesPath": "C:\\Users\\Alunos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\obj\\",
+      "outputPath": "C:\\Users\\Alunos\\Documents\\fernanda\\ParaMeuCurriculo\\ParaMeuCurriculo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alunos\\AppData\\Roaming\\NuGet\\NuGet.Config"
