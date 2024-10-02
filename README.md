@@ -1,7 +1,7 @@
 # ParaMeuCurriculo
 ﻿Para Meu Curriculo Atividade
 
-[x]O que foi utilizado?
+[]O que foi utilizado?
 - .NET 
 - c#
 
